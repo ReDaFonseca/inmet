@@ -6,5 +6,8 @@ Banco de Dados Meteorológicos do INMET
 Site:
 https://bdmep.inmet.gov.br/
 
+Dados históricos:
+https://portal.inmet.gov.br/dadoshistoricos
+
 
 
