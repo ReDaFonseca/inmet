@@ -1,6 +1,6 @@
 # inmet : https://portal.inmet.gov.br/
 inmet - climáticos:
-Brasília e Goiânia: 05/2000- 11/2022
+Brasília Estação A001) e Goiânia (Estação: A002): período: 05/2000- 11/2022
 
 Banco de Dados Meteorológicos do INMET
 Site:
